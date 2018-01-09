@@ -1,0 +1,13 @@
+/**
+ * Created by Atom.
+ * User: Yasin Sunmaz
+ * Date: 9.1.2018
+ * Time: 00:47
+ */
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+body{
+    background-color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    color: #000;
+}
